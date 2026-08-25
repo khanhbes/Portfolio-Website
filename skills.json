@@ -1,15 +1,14 @@
 [
 { "name": "Python", "icon": "https://img.icons8.com/color/48/000000/python--v1.png" },
-  { "name": "PyTorch", "icon": "https://img.icons8.com/color/48/000000/pytorch.png" },
+  { "name": "PyTorch", "icon": "https://img.icons8.com/fluency/48/pytorch.png" },
   { "name": "YOLO & Object Detection", "icon": "https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" },
   { "name": "OpenCV", "icon": "https://img.icons8.com/fluency/48/000000/opencv.png" },
-  { "name": "Computer Vision", "icon": "https://img.icons8.com/ios-filled/48/000000/vision.png" },
-  { "name": "Multi-Object Tracking", "icon": "https://img.icons8.com/fluency/48/000000/tracking.png" },
+  { "name": "Computer Vision", "icon": "https://img.icons8.com/fluency/48/facial-recognition-scan.png" },
+  { "name": "Multi-Object Tracking", "icon": "https://img.icons8.com/color/48/radar.png" },
   { "name": "Flutter", "icon": "https://img.icons8.com/fluency/48/000000/flutter.png" },
   { "name": "Dart", "icon": "https://img.icons8.com/color/48/000000/dart.png" },
   { "name": "Firebase", "icon": "https://img.icons8.com/color/48/000000/firebase.png" },
   { "name": "Data Visualization", "icon": "https://img.icons8.com/fluency/48/000000/combo-chart.png" },
-  { "name": "Edge AI", "icon": "https://img.icons8.com/fluency/48/000000/edge-technology.png" },
   { "name": "Git", "icon": "https://img.icons8.com/color/48/000000/git.png" },
   { "name": "Linux", "icon": "https://img.icons8.com/color/48/000000/linux.png" }
 ]
