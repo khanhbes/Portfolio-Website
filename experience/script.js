@@ -32,6 +32,20 @@ srtop.reveal('.experience .timeline .container',{interval: 400});
 
 // Start of Tawk.to Live Chat
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+Tawk_API.customStyle = {
+    visibility : {
+        desktop : {
+            position : 'bl',
+            xOffset : 20,
+            yOffset : 20
+        },
+        mobile : {
+            position : 'bl',
+            xOffset : 15,
+            yOffset : 15
+        }
+    }
+};
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
