@@ -2,7 +2,7 @@
   {
         "name": "Real-time Emotion Recognition with YOLOv12",
     "desc": "Real-time face emotion recognition using YOLOv12, optimized for inference speed and accuracy. Built with Python, PyTorch, and OpenCV. Suitable for Edge AI deployments.",
-    "image": "emotion-yolov12",
+    "image": "emotion-recognition",
     "category": "ai",
     "links": {
       "view": "https://github.com/khanhbes/Emotion-Recognition-YOLOv12",
